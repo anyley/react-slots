@@ -1,0 +1,13 @@
+.header {
+    margin: 20px;
+    padding: 10px 20px;
+    background-color: #eee;
+    border-radius: 20px;
+    border: 1px solid #ddd;
+    box-shadow: 2px 2px 20px #ccc;
+}
+
+.breadcrambs {
+    height: 24px;
+    border: 1px solid #eee;
+}
